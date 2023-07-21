@@ -1,1 +1,1 @@
-module.exports = require('./lib/HttpServer')
+export * from "./src/index.js"
